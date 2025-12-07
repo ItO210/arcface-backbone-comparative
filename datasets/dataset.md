@@ -1,3 +1,2 @@
-You can find the VGGFace2 dataset as well as other datasets from the original Arcface Repository.
-
-Or you can find the one used here: link
+You can find the VGGFace2 dataset, along with other datasets, in the original [ArcFace repository](https://github.com/deepinsight/insightface/tree/master/recognition/_datasets_).
+After organizing the dataset into directories, add the `.bin` verification files to the same folder.
