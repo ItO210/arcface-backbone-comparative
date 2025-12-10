@@ -28,7 +28,6 @@ This repository is a simplified adaptation of the original InsightFace framework
 - **datasets/**:
   - `convert_recordio_to_images.py`: Converts RecordIO datasets to image folders.
   - `.bin` files for verification (AgeDB-30, CFP-FP, LFW).
-  - `README.md`: Contains links to official datasets.
 - **work_dirs/**:
   - `extract.py`: Parses training logs into JSON metrics.
   - `combined_training_plot.py`: Plots loss, learning rate, and FP16 scale vs steps.
